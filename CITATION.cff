@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper."
+authors:
+  - family-names: Brauner
+    given-names: Lea Eileen
+    affiliation: Ostfalia University of Applied Sciences
+title: "Noise-Aware Cluster Validity Measures"
+version: "1.0.0"
+doi: 10.3233/IDA-XXXXX  # <- DOI deiner Publikation
+date-released: 2025-07-14
+url: https://github.com/username/noise-aware-cluster-validity
