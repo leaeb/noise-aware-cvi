@@ -34,11 +34,15 @@ This package:
 
 ## Installation
 
-
+```bash
+pip install nacvi
+```
 
 ## Usage
 
-In examples/usage_example.py you can find a comprehensive example with:
+In examples/usage_miniexample.py you can find a minimal example for the usage with numpy arrays as inputs.
+
+In examples/usage_example.ipynb you can find a comprehensive example with:
 - data generation,
 - execution of the DBSCAN clustering algorithm,
 - visualisation,
